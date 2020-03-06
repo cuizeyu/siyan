@@ -2,44 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6e084d5-c8af-4855-91fe-268a4c1378bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/siyan.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/She.m4a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/aos.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/ekko-lightbox.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/bride-maid-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/bride-maid-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/bride-maid-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/bride.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/favicon/apple-touch-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/favicon/favicon-16x16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/favicon/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery-pic-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery-pic-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery-pic-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery-pic-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery-pic-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery-pic-6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery-pic-7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery-pic-8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/groom-men-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/groom-men-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/groom-men-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/groom.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/home-img.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/laurel-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/reception.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/rsvp-img.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/wedding-party.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/aos.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/ekko-lightbox.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/music.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -55,11 +20,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="609">
-              <caret line="90" column="2" selection-start-line="90" selection-start-column="2" selection-end-line="90" selection-end-column="2" />
+            <state relative-caret-position="151">
+              <caret line="80" column="32" selection-start-line="80" selection-start-column="32" selection-end-line="80" selection-end-column="32" />
               <folding>
-                <element signature="n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -72,6 +38,8 @@
       <find>50</find>
       <find>50px</find>
       <find>audio</find>
+      <find>acquaintance</find>
+      <find>ww-announcement-container</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -105,7 +73,7 @@
             <path>
               <item name="siyan" type="b2602c69:ProjectViewProjectNode" />
               <item name="siyan" type="462c0819:PsiDirectoryNode" />
-              <item name="styles" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -117,12 +85,13 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -158,12 +127,29 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583485468437</updated>
-      <workItem from="1583485469685" duration="1195000" />
+      <workItem from="1583485469685" duration="3682000" />
     </task>
+    <task id="LOCAL-00001" summary="123">
+      <created>1583487766312</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583487766312</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1195000" />
+    <option name="totallyTimeSpent" value="3682000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -174,7 +160,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32891566" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -182,7 +168,7 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -191,21 +177,29 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="123" />
+    <option name="LAST_COMMIT_MESSAGE" value="123" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/styles/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="9260" column="1" lean-forward="true" selection-start-line="9260" selection-start-column="1" selection-end-line="9260" selection-end-column="1" />
+        <state relative-caret-position="171">
+          <caret line="9260" column="1" selection-start-line="9260" selection-start-column="1" selection-end-line="9260" selection-end-column="1" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/images/groom.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="609">
-          <caret line="90" column="2" selection-start-line="90" selection-start-column="2" selection-end-line="90" selection-end-column="2" />
+        <state relative-caret-position="151">
+          <caret line="80" column="32" selection-start-line="80" selection-start-column="32" selection-end-line="80" selection-end-column="32" />
           <folding>
-            <element signature="n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>

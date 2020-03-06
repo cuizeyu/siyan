@@ -78,7 +78,8 @@
     <footer style="text-align: center;padding-bottom: 30px">
       期待着我们的相遇
     </footer>
-      <audio  controls="controls" hidden="true" autoplay="autoplay"  src="https://m701.music.126.net/20200306174322/f74d616d51950545f16c9f33c7780d8c/jdyyaac/0f5e/055b/000f/84ba5704ea21e7a3336f7e90c0f86c70.m4a"  id="music">你的浏览器版本太低，不支持audio标签</audio>
+      <img src="images/music.png" width="40px" height="40px" id="aa" style="position: fixed; top: 30px; left: 10px;background: white;border-radius: 8px">
+      <audio  controls="controls"  autoplay="autoplay"  src="http://m7.music.126.net/20200306182113/78f299b63a49b1206d1bedf0beb34534/ymusic/2c5d/98e3/e608/ceaa24166f851dbaf94016dcbb01e69b.mp3"  id="music">你的浏览器版本太低，不支持audio标签</audio>
       <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
@@ -89,5 +90,13 @@
   </body>
 </html>
 <script>
-
+  window.onload=function(){
+      let tt = document.getElementById('music');
+      let aa = document.getElementById('aa');
+        console.log();
+        aa.onclick = function () {
+          tt.play()
+          console.log(1);
+        }
+  }
 </script>
